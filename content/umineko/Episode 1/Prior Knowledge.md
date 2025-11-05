@@ -1,6 +1,6 @@
 ---
 created: 2025-10-04 09:32
-modified: 2025-10-20T14:27:39-05:00
+modified: 2025-11-05T16:23:27-06:00
 tags:
 cry-publish: true
 ---
@@ -48,14 +48,3 @@ Thoughts on characters:
 	- Gohda is sketchy as hell and probably working for Beatrice for?? the drama of it all?????   
 	- Genji is going to be the coroner for all these deaths that's gonna happen   
 	- All the seagulls are going to be found dead somewhere   
-  
-  
-The sigil was written in hebrew and was a sigil of the sun   
-  
-It draws the power of the sun to allow someone to be freed from physical or mental bindings   
-  
-The sigil requires 6 sacrifices   
-  
-Maria knows all of this instantly .  
-  
-Maria is acting weird but maybe it's autism idfk. Or she's possessed 
