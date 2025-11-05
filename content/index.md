@@ -9,11 +9,11 @@ These are my notes for the 'When They Cry' series!
   
 There will be more here I promise.  
   
-[[./liveblog/index|My Liveblog]]  
+[My Liveblog](./liveblog/index.md)  
   
-[[./umineko/index|Umineko: When They Cry notes]]  
+[Umineko: When They Cry notes](./umineko/index.md)  
   
-[[./higurashi/index|Higurashi: When They Cry notes (empty)]]  
+[Higurashi: When They Cry notes (empty)](./higurashi/index.md)  
   
   
   
