@@ -1,6 +1,6 @@
 ---
 created: 2025-10-28 12:19
-modified: 2025-11-04T19:42:16-06:00
+modified: 2025-11-04T21:19:23-06:00
 tags:
 cry-publish: true
 title: "Notes: When They Cry"
@@ -9,10 +9,11 @@ These are my notes for the 'When They Cry' series!
   
 There will be more here I promise.  
   
-[[./umineko/index|umineko]]  
+[[./liveblog/index|My Liveblog]]  
   
-[[./higurashi/index|higurashi]]  
+[[./umineko/index|Umineko: When They Cry notes]]  
   
-[[./liveblog/index|liveblog]]  
+[[./higurashi/index|Higurashi: When They Cry notes (empty)]]  
+  
   
   
