@@ -6,4 +6,4 @@ cry-publish: true
 ---
 Man .  
   
-![[Prior Knowledge|Prior Knowledge]]
+![Prior Knowledge](Prior%20Knowledge.md)
