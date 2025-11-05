@@ -19,5 +19,5 @@ God where do I begin.
 	- Maria, Battler, George, Jessica  
 - Why did Natsuhi kill herself?   
 	- How was it so perfectly a single bullet hole when she had a sawed off shotgun?  
-- The FUCK is going on with the [[../../The Epithet|The Epithet]]?  
-- WHERE is the goddamn [[The Gold|GOLD]]??? 
+- The FUCK is going on with the [[../The Epithet|The Epithet]]?  
+- WHERE is the goddamn [[../The Gold|GOLD]]??? 
