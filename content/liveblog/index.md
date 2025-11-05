@@ -7,4 +7,4 @@ cry-publish: true
 ---
 This is my index for my Liveblog!  
   
-![[./11-04-2025|11-04-2025]]
+![11-04-2025](./11-04-2025.md)

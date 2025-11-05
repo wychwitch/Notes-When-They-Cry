@@ -5,4 +5,4 @@ tags:
 cry-publish: true
 title: "Higurashi: When They Cry"
 ---
-[[./What I Know|What I Know]]
+[What I Know](./What%20I%20Know.md)
