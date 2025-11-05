@@ -6,9 +6,9 @@ cry-publish: true
 ---
 God where do I begin.  
   
-- How did [Rudolph](Rudolph.md) know he was going to die???  
+- How did [Rudolph](./Rudolph.md) know he was going to die???  
 - How (and why??) did [Kinzo](./Kinzo.md) leave his room?  
-- Who gave [Maria](Maria.md) [the letter](The%20Letters.md#the-first-letter)?  
+- Who gave [Maria](./Maria.md) [the letter](./The%20Letters.md#the-first-letter)?  
 - How was *everyone* killed?  
 	-  Gohda, Shannon, Rudolph, Erie, Rosa, and Krause during the [first twilight](./Twilights.md#first-twilight)  
 		- WHY were their faces fucked up?  
