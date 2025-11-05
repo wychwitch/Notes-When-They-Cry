@@ -6,5 +6,5 @@ cry-publish: true
 title: "Umineko: When They Cry"
 ---
 Originally read as part as umitober reading challenge, I now HAVE to read more!!  
-[[./Notes/Episode 1/Episode 1.dir|Episode 1]]  
+[Episode 1](./Notes/Episode%201/Episode%201.dir.md)  
   
