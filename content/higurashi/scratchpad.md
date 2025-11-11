@@ -8,4 +8,4 @@ Man .
   
 Here's my prior knowledge going into the series as a whole!  
   
-![Prior Knowledge](../umineko/Episode%201/Prior%20Knowledge.md)
+![Prior Knowledge](../umineko/Prior%20Knowledge.md)
