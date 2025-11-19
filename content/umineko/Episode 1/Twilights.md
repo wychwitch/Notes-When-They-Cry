@@ -1,12 +1,13 @@
 ---
 created: 2025-11-05 10:04
-modified: 2025-11-05T10:15:15-06:00
+modified: 2025-11-11T16:44:37-06:00
 tags:
 cry-publish: true
 ---
-The numbering of these twilights is gonna be wrong but   
-  
 ## First Twilight  
+The most deaths at once, with everyone's faces completely or partially obliterated (Krauss and Shanon only half of their faces)  
+  
+Possibly   
   
 ## Second Twilight  
   
