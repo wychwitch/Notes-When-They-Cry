@@ -1,6 +1,6 @@
 ---
 created: 2025-11-04 19:25
-modified: 2025-11-04T22:26:21-06:00
+modified: 2025-11-12T16:01:35-06:00
 tags:
 title: "[Liveblog]"
 cry-publish: true
@@ -11,6 +11,7 @@ I plan on using bsky for my live updates, while posting slightly more thought ou
   
 You can see my bsky liveblogs here:  
 - [Episode 1 (for umitoberRC)](https://bsky.app/profile/wychwit.ch/post/3m2hksrjrrc2a)  
+-   
   
 ## Umineko  
 ### Episode 2  
